@@ -2,6 +2,10 @@
 
 A basic unit testing framework for C programs
 
+## get started
+
+copy the file vtest.h into your project where you want to run your tests
+
 ## example
 
 ```c
